@@ -1,0 +1,4 @@
+#ignoring files and directories in the git repo
+
+/.git
+/wheels
